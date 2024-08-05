@@ -76,5 +76,15 @@
             key-positions = <61 62>;
             bindings = <&mo 2>;
         };
+
+        r {
+            bindings = <&kp RIGHT>;
+            key-positions = <55 32>;
+        };
+
+        l {
+            bindings = <&kp LEFT>;
+            key-positions = <55 30>;
+        };
     };
 };
